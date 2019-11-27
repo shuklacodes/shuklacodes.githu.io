@@ -1,1 +1,1 @@
-# shuklacodes.githu.io
+# shuklacodes.github.io
